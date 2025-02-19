@@ -16,4 +16,4 @@ If the algorithm detects a risk of collision, it alerts both drivers, informing 
 
 ## 🔒 Privacy & Rights Notice
 
-All rights are reserved by the Lakshya. Unauthorized reproduction, distribution, or modification of this project is strictly prohibited.
+All rights are reserved by the author. Unauthorized reproduction, distribution, or modification of this project is strictly prohibited.
